@@ -1,0 +1,2 @@
+python MangaLeno.py
+pause
